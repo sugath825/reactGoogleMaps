@@ -1,2 +1,0 @@
-# reactGoogleMaps
-Created with CodeSandbox
